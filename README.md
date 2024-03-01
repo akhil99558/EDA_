@@ -1,6 +1,6 @@
 # EDA
 **
-First Project is EDA of CreditCard Data found on Kaggle. - [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers]**
+## 1.First Project is EDA of CreditCard Data found on Kaggle. - [https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers]**
    We had first cleaned up missing Data and changed any object type variables to categorical variables and then we have done Exploratory Data Analysis [EDA] 
    on the given data set to find a few facts about the data such as:
 	
@@ -19,4 +19,8 @@ First Project is EDA of CreditCard Data found on Kaggle. - [https://www.kaggle.c
 	
    After doing some EDA and coming to a few conclusions in which have been mentioned in the file, I have tried out a few ML Models to predict the attrition 
    rate given the following mentioned parameters. After Analysing all models I have arrived at the best suitable model for predicting the attrition rate
- 
+
+ ## 2. K-Planetary Index Prediction using Deep Learning
+
+ - Have used past realtime data from the DSCOVR Satellite to fix anamolies and accurately predict K-P values which are in-turn used to predict solar flares.
+ - Done as part of Nationals in NASA Space Apps Hackathon
