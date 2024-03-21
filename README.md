@@ -24,3 +24,8 @@
 
  - Have used past realtime data from the DSCOVR Satellite to fix anamolies and accurately predict K-P values which are in-turn used to predict solar flares.
  - Done as part of Nationals in NASA Space Apps Hackathon
+
+## 3. Brief Exploratory Data Analysis of Recipie Dataset using DesciscionTreeClassifier
+
+- Have used the recepie dataset to create a model to classify ingredients used to the countries.
+- Used DescscionTreeClassifier and done appropriate visualizations
